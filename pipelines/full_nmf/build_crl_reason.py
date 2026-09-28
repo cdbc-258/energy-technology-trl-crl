@@ -1,8 +1,9 @@
-"""Build an annotated copy of case_hotspot_links.csv with a CRL-gap explanation.
+"""Fill empty CRL stages in case_hotspot_links.csv with an inline reason.
 
-New, additive version: it does not modify trl_crl/pipeline.py nor the original
-case_hotspot_links.csv. It re-runs the existing assess() and derives, from
-objective fields only, why each object's CRL stage is empty.
+Re-runs the existing assess() and, from objective fields only, derives why each
+object's CRL stage is empty, then writes that reason directly into the
+crl_public_evidence_stage cell (like an error message) instead of leaving it
+blank. It does not modify trl_crl/pipeline.py.
 
 Reason basis (docs/METHOD.md):
   4: 没找到销售资料不能证明CRL1；专利申请或授权不独立决定CRL；
@@ -43,27 +44,30 @@ def crl_missing_reason(case, source_types, trl):
 def build(data_dir, source_csv, out_csv):
     d, results = assess(data_dir)
     units = results['assessment_units']
+    um = {u['case_id']: u for u in units}
     src = {s['source_id']: s['source_type'] for s in d['sources']}
     case_src = {}
     for e in d['evidence']:
         case_src.setdefault(e['case_id'], set()).add(src[e['source_id']])
     reason = {}
     for u in units:
-        cid = u['case_id']
-        reason[cid] = (crl_missing_reason(u, case_src.get(cid, set()), u['trl_public_evidence_stage'])
-                       if u['crl_public_evidence_stage'] is None else None)
+        if u['crl_public_evidence_stage'] is None:
+            reason[u['case_id']] = crl_missing_reason(u, case_src.get(u['case_id'], set()), u['trl_public_evidence_stage'])
     df = pd.read_csv(source_csv, encoding='utf-8-sig')
-    pos = list(df.columns).index('crl_public_evidence_stage') + 1
-    df.insert(pos, 'crl_missing_reason', df['case_id'].map(reason))
+    df['crl_public_evidence_stage'] = [
+        str(int(um[cid]['crl_public_evidence_stage'])) if um[cid]['crl_public_evidence_stage'] is not None
+        else reason.get(cid, '')
+        for cid in df['case_id']
+    ]
     df.to_csv(out_csv, index=False, encoding='utf-8-sig')
-    return len(df), int(df['crl_missing_reason'].notna().sum())
+    return len(df), len(reason)
 
 
 if __name__ == '__main__':
     p = argparse.ArgumentParser()
     p.add_argument('--data', type=Path, default=REPO / 'data')
     p.add_argument('--source', type=Path, default=REPO / 'assets/full_nmf500/case_hotspot_links.csv')
-    p.add_argument('--out', type=Path, default=REPO / 'assets/full_nmf500/case_hotspot_links_crl_reason.csv')
+    p.add_argument('--out', type=Path, default=REPO / 'assets/full_nmf500/case_hotspot_links.csv')
     a = p.parse_args()
     n, filled = build(a.data, a.source, a.out)
-    print(json.dumps({'rows': n, 'crl_missing_reason_filled': filled}, ensure_ascii=False))
+    print(json.dumps({'rows': n, 'crl_reason_filled': filled}, ensure_ascii=False))

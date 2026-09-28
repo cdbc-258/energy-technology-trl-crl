@@ -1,0 +1,37 @@
+{
+  "original_input_hashes": {
+    "dataset": "0fc17d5665e3b5f2482bd18f4629622c664914c71228795b1e01090cd7e70743",
+    "objects": "65b3e2f15781f2a5bb82c818b0e220189f6b662ca799ed276cebbac500cce2d2",
+    "technical_profiles": "5bb35c207205ac5e17316103c3fa6659714aedf9595d3f4a2af78725c0682d81",
+    "gate_reviews": "a18ac5b185463eb7f6e5793f70557606fa2da091f4f56ecdbe6aa5a9b9a17f2e",
+    "observations": "66dfd4fed7f0aa4b499ee1f97c740129fc1067dbafe16f5fa95b9e7dcab223b3",
+    "evidence": "e2d5c3ba55de858c421e95000caaaf56e9c8218a8d46a5d09d2abac89687e4f3",
+    "sources": "9f30ec20cbe0cbdd795aeef6c9af934af809df24042a53d9704ff61b219b4f35",
+    "technology_registry": "dd388a7c93a4fb0a5cbb4dea25fef23c1a3e28795b72ec2e9b5021e42416c452",
+    "case_technology_links": "3fd73326885e8898824ecd1dd6c6bd40b07346fc964aa0f06a022ff8629f24dc",
+    "themes": "ff9d5912300e6010fdbe8072ac13f3189b6026ae0c423805e2a2c290b687cf12",
+    "theme_direction_links": "dcab5996a8eb883ac245dc58214809b5d6ed32d7407b7a4c00cad50ba5c9fef6",
+    "observed_facts": "d96b1a188d6fe42ccc56bc052c09d7542e48141ece3339557bd6cf9360e7edd5"
+  },
+  "selected_nmf_sha256": "608713deecdfe8f84c4e6172bf77e3890933f8e9e6f573a7812eedf42dae5ebd",
+  "centroids_sha256": "2b8082012208e5a92170d2aba17a8cd6a451f9b655c469e6c7f5b7cc00af8eca",
+  "context_encoding": {
+    "input_sha256": "9e8b8cf1f79e6100cefb4ed1dd6ccff338b20add44bf22da3aa16d77a3090cf2",
+    "model": "BAAI/bge-m3",
+    "dimension": 1024,
+    "max_tokens": 2048,
+    "text": "object name/configuration/function and accepted source titles/quotes; direction name/function; no TRL/CRL stages",
+    "documents": 513,
+    "providers": [
+      "CUDAExecutionProvider",
+      "CPUExecutionProvider"
+    ],
+    "seconds": 3.144737958908081,
+    "mapping_role": "automatic retrieval association only; semantic review required"
+  },
+  "hotspot_input_hashes": {
+    "topic_catalog.csv": "4603379c5e5aeeb22bd727a90d58b1e7de17ba655054ee4aa75d387e130de338",
+    "reviewed_hotspot_metrics.csv": "c2a527ede67ea1b33c11350a8c274d3884a468916f0a4b2d5103742aa806ed84",
+    "reviewed_potential_metrics.csv": "1b538a885f77167588303a676af1c42560252958a6090ac073dbd9f14ebf04f6"
+  }
+}

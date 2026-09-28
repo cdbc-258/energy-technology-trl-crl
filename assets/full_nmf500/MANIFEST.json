@@ -1,0 +1,20 @@
+{
+  "files": {
+    "POSTPROCESS_DELIVERY.json": "f951e6fbeccc537047fd89cbe6f2820f7cb46a33abeb5a8a68ee5d05d1149705",
+    "REPORT.md": "79c7ab03bf5fa57fc18a0c5ddbd19e162fa662a87c1f29c56806b5ee1214ccc8",
+    "SUMMARY.json": "01934987ec3c290df1648112ace564a1c394e16ab74d739c94084f9113af26c3",
+    "case_hotspot_links.csv": "22cdbf68e3f213ed1b4d420a27dee11be9f91807b6ab1ab5ad0c632a1e8e2a38",
+    "case_hotspot_links_crl_reason.csv": "7c949e963b8094421a9044f48819c4a4dc9a19116e004c3dff3e0c0549a3c56a",
+    "experiments/COMPLETE.json": "454b9c48161d5790afd4a8973f3450aaaab5c6d0b7dda9468d6397f943251d82",
+    "experiments/REPORT.md": "fc52e2fc5e064740cfd7b6e15a3136f650e502f2623c2f4ab7e9f574e5cc04a0",
+    "experiments/SUMMARY.json": "620dcb4453c2a9c25698192ee4f660430e35be2a8ed0c060303e180ea5750628",
+    "experiments/case_fragility.csv": "a042277d7c6bd5d123401154ab7d864d6fcd904c206731dfce9bab8c57000e67",
+    "experiments/changed_cases.csv": "89184570936b1fdc63683ea2f8361dce6725ed3f6794999ad39c1bcdd9cdcd64",
+    "experiments/evidence_scenarios.csv": "764ddd7570def6bfce4c0d90536a81113990af1f03f04b711cc74dbc4e87b85e",
+    "experiments/full_topic_case_fragility.csv": "94ee53401105979d6d09b9cb3325daef7aa9e58f81a5b8cc4b3619bbaac7c7e2",
+    "experiments/mapping_sensitivity.csv": "ae119a1f3129240a10a5317a21872363e5e9252f90d8b3545c5a9ed027dae4ad",
+    "theme_context_top3.csv": "ba84ce24ab2002824f6c04dec3540e692764f861cbaed607843df4dc470825a2",
+    "theme_evidence_profiles.csv": "b89ccb71f452b48583cd3963cb8777b3fbd627bfe3386a436f37a7d74981438b"
+  },
+  "classification_summary_sha256": "67d7d140720a99a87ae46fcf171e34515c1629ae4a402aa116dc30b1e4683568"
+}

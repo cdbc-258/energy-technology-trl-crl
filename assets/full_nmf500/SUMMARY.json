@@ -1,0 +1,14 @@
+{
+  "full_source_records": 5119004,
+  "full_papers": 4831088,
+  "full_patents": 281295,
+  "full_policies": 6621,
+  "topic_count": 500,
+  "bounded_cases_recomputed": 122,
+  "context_entities_remapped": 513,
+  "theme_level_maturity_assigned": false,
+  "new_external_evidence_added": false,
+  "classification_centroids_sha256": "6decdb374eab7073f975c2624cdebe3b4161d714f7eaea3ece1bfc4593e0e1d5",
+  "original_evidence_preserved": true,
+  "classification_summary_sha256": "67d7d140720a99a87ae46fcf171e34515c1629ae4a402aa116dc30b1e4683568"
+}

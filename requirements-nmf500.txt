@@ -1,0 +1,6 @@
+# Portable numeric diagnostics (no BGE/GPU required).
+numpy>=1.26,<3
+pandas>=2.2,<4
+tabulate>=0.9,<1
+openpyxl>=3.1,<4
+threadpoolctl>=3,<4

@@ -1,0 +1,22 @@
+{
+  "assessment_cutoff": "2026-09-25",
+  "classification_themes": 750,
+  "candidate_directions": 391,
+  "evaluation_basis": {
+    "TRL": "Q/GDW 12566—2025，第5章、第6章表1及附录",
+    "CRL": "招标书五级定义与六维商业指标；项目研究操作规则"
+  },
+  "assessment_type": "限定配置、场景、时期的公开证据初评",
+  "formal_assessment": false,
+  "search_coverage": {
+    "queries": 493,
+    "raw_news_hits": 6422,
+    "unique_news_urls": 5154,
+    "scope": "Google News RSS与政府/项目/机构库/供应商资料；检索命中不等于已接受证据"
+  },
+  "source_document_distribution_note": "来源URL去重不等于独立研究去重；未复制完整源文件",
+  "patent_rule": "专利申请/授权仅可作辅助信息，不独立决定CRL；许可/转让需同对象实际履约证据",
+  "total_source_records": 5119004,
+  "assigned_records": 5111081,
+  "unassigned_or_quarantined_records": 7923
+}

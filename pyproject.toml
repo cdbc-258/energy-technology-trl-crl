@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "energy-technology-trl-crl"
+version = "0.2.0"
+description = "Traceable independent TRL and CRL assessment for bounded energy technology applications"
+requires-python = ">=3.10"
+dependencies = ["openpyxl>=3.1,<4"]
+
+[project.scripts]
+trl-crl = "trl_crl.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["trl_crl*"]

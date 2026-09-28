@@ -1,0 +1,17 @@
+{
+  "full_population_records": 5119004,
+  "classification_summary_sha256": "67d7d140720a99a87ae46fcf171e34515c1629ae4a402aa116dc30b1e4683568",
+  "experiments_passed": true,
+  "experiment_complete_sha256": {
+    "energy-topic-hotspots": "57edf104350faae624e1bcee1ed73cfb36b6fb8ae146d17c90cd1dfa8e51d66f",
+    "energy-technology-trl-crl": "454b9c48161d5790afd4a8973f3450aaaab5c6d0b7dda9468d6397f943251d82"
+  },
+  "publication": "Push receipts are recorded separately after remote verification; this file is not proof of push.",
+  "evidence_limit": "Full topic mapping; maturity remains bounded to existing reviewed objects.",
+  "source_experiment_complete_sha256": {
+    "energy-topic-hotspots": "c261de455c905a918b51d4b7163d721ece59af06e3fb115f31154bcd5cc7917b",
+    "energy-technology-trl-crl": "9ba7cb65a67ba490870d285bb763d07935103b3d2b1fa67db50d6d4622775b44"
+  },
+  "documentation_only_refresh": true,
+  "computed_numeric_artifacts_unchanged": true
+}

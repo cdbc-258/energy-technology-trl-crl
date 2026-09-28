@@ -1,0 +1,17 @@
+{
+  "cases": 122,
+  "sources": 114,
+  "passages": 126,
+  "observations": 453,
+  "scenario_count": 724,
+  "source_loo_cases_with_any_axis_changed": 118,
+  "source_loo_fragile_known_trl": 108,
+  "source_loo_fragile_known_crl": 23,
+  "upgrades": 0,
+  "cross_axis_ablation_independence_passed": true,
+  "frozen_evidence_only": true,
+  "new_remote_evidence_added": 0,
+  "limitation": "Conservative withdrawal: any removed citation resets the gate to unknown; remaining support is not semantically re-adjudicated. Not an accuracy experiment.",
+  "time_limit": "All 126 available_by values are 2026-09-25. Earlier knowledge-date tests return unknown; they cannot reconstruct historical maturity.",
+  "mapping_limit": "Top3 expands candidate coverage only. No cosine threshold certifies semantic correctness or transfers grades."
+}

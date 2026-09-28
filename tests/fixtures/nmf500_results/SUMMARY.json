@@ -1,0 +1,32 @@
+{
+  "assessment_cutoff": "2026-09-25",
+  "theme_count": 500,
+  "source_record_count": 165783,
+  "candidate_direction_count": 391,
+  "bounded_object_count": 122,
+  "objects_with_trl": 108,
+  "objects_with_crl": 23,
+  "objects_with_both": 13,
+  "objects_with_neither": 4,
+  "trl_distribution": {
+    "4": 84,
+    "2": 9,
+    "unknown": 14,
+    "6": 2,
+    "9": 12,
+    "1": 1
+  },
+  "crl_distribution": {
+    "unknown": 99,
+    "2": 15,
+    "3": 8
+  },
+  "formal_grade_count": 0,
+  "direction_scalar_count": 0,
+  "source_url_count": 114,
+  "accepted_evidence_passages": 126,
+  "reviewed_gate_observations": 453,
+  "observed_fact_count": 17,
+  "method": "Independent evidence-gate evaluation; TRL: Q/GDW 12566—2025; CRL: tender five levels and project operational rules",
+  "interpretation": "公开证据初评；检索覆盖不等于实质评审覆盖；来源URL不等于独立研究数"
+}

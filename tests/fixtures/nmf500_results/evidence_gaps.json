@@ -1,0 +1,1668 @@
+[
+  {
+    "case_id": "C0009-B01",
+    "canonical_name": "磁场辅助氧化物衍生铜电极二氧化碳电还原",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0493-B01",
+    "canonical_name": "银负载二氧化钛聚光反应器光催化制氢",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0060-B01",
+    "canonical_name": "镍铜氧化物电极扣式超级电容储能",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0067-B01",
+    "canonical_name": "双界面桥联钝化钙钛矿光伏器件",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0091-B01",
+    "canonical_name": "GENE–CHEASE线性局域计算接口",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0098-B01",
+    "canonical_name": "建筑冷站低负荷自适应控制",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "现场POC存在，但启动停止可靠性及合格间隔仍需预设，TRL6不补",
+      "缺具体商业许可或供货履约，CRL保留未知"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0122-B01",
+    "canonical_name": "复合热电墨水印刷径向发电器",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0124-B01",
+    "canonical_name": "区块链电碳身份计量与结算方法",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0155-B01",
+    "canonical_name": "NiFe-LDH-PTA析氧电极与AEM单池",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0593-B01",
+    "canonical_name": "跨车辆迁移电池健康状态估计",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0186-B01",
+    "canonical_name": "煤热解移动颗粒床除尘",
+    "missing_axes": [
+      "TRL",
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0191-B01",
+    "canonical_name": "TiFe金属氢化物热驱动氢气压缩",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0210-B01",
+    "canonical_name": "能源桩换热与热力耦合",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0216-B01",
+    "canonical_name": "IGBT加速功率循环试验",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0221-B01",
+    "canonical_name": "锂金属软包电池原位压力映射诊断",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0246-B01",
+    "canonical_name": "居民电池自发自用控制",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "一年试点期，精确起止日未在所读摘要中给出",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0251-B01",
+    "canonical_name": "充电保形预测与V2G容量边界计算模块组",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0254-B01",
+    "canonical_name": "多元素CoNiMoWOSeTe析氢电极与单池",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0518-B01",
+    "canonical_name": "壳聚糖香草醛自修复石墨负极粘结",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0278-B01",
+    "canonical_name": "CuFeS2双功能电极整体水电解",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0294-B01",
+    "canonical_name": "模块化容错BMS电压监测",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0684-B01",
+    "canonical_name": "退役NMC模组热失控危害表征",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0356-B01",
+    "canonical_name": "电力动态研究智能体基准评测",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0435-B01",
+    "canonical_name": "可配置宽带电力线通信波形",
+    "missing_axes": [],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "TRL6仍缺全部关键性能合格要求及可核验对照",
+      "CRL3无该研究原型供货或付费履约证据"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0443-B01",
+    "canonical_name": "智能温控计量数据校准建筑能耗模型",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0191-B02",
+    "canonical_name": "TiFe固态储氢耦合燃料电池供电",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "2023-08—2024-07",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0665-B01",
+    "canonical_name": "大螺旋角无缝内螺纹铜管换热强化",
+    "missing_axes": [],
+    "evidence_period": "2015-01—2019 年中",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0098-B02",
+    "canonical_name": "建筑高效冷站集成节能控制",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0509-B01",
+    "canonical_name": "太阳能储热多能互补建筑供暖",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "2019 年目录公开前的一个采暖季，精确起止未给出",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0246-B02",
+    "canonical_name": "虚拟电厂新能源入市协同结算",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0356-B02",
+    "canonical_name": "电网业务测试用例智能生成",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0124-B02",
+    "canonical_name": "电碳耦合源荷互动交易动态合约",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "未明确；仅知不晚于证据公开时间",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0487-N01",
+    "canonical_name": "部分浸没冷却电池多尺度热建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-04-22",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0490-N01",
+    "canonical_name": "再分析风资源数据适用性验证",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-03-07",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0491-N01",
+    "canonical_name": "银纳米线海绵浸涂可拉伸电池电极",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2017-09-20",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0492-N01",
+    "canonical_name": "热虹吸光生物反应器制氢",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-07-27",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0494-N01",
+    "canonical_name": "聚合物金属交替叠层介电储能",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2018-12-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0495-N01",
+    "canonical_name": "乙烯茴香基共聚物自修复电绝缘",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2023-12-21",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0497-N01",
+    "canonical_name": "受控气候平板光生物反应器藻类培养",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-07-24",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0499-N01",
+    "canonical_name": "圆形线圈电磁振动能量采集",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-07-31",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0500-N01",
+    "canonical_name": "辅助振子压电悬臂振动能量采集",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2020-08-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0501-N01",
+    "canonical_name": "NaBFMB/TMPT单离子钠电解质传导",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2021-12-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0502-N01",
+    "canonical_name": "潮流能输出功率测量不确定度评定",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2023-05-17",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0504-N01",
+    "canonical_name": "电动车并网深度强化学习电压控制",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2021-01-09",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0507-N01",
+    "canonical_name": "污泥后曝气鸟粪石析出平衡建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-12-11",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0510-N01",
+    "canonical_name": "缺陷氧化铟表面FLP光催化逆水煤气变换",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2016-01-13",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0512-N01",
+    "canonical_name": "微波超表面整流无线能量采集",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-12-08",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0513-N01",
+    "canonical_name": "TEG/PVCap甲烷水合物生长抑制",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2023-08-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0514-N01",
+    "canonical_name": "水泥预分解炉外置煤气化数值建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-08-05",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0515-N01",
+    "canonical_name": "SDADPS复合反渗透膜脱盐",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2012-04-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0517-N01",
+    "canonical_name": "CIM/OPC需求响应平台仿真接口",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2013-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0519-N01",
+    "canonical_name": "陶瓷涂层聚乙烯隔膜抗压滥用验证",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-04-02",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0520-N01",
+    "canonical_name": "凝胶电解质超快极化离子传输机理",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-05-18",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0521-N01",
+    "canonical_name": "PAN-PEO-LiClO4固态聚合物电解质传导",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2006-04-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0524-N01",
+    "canonical_name": "楼宇储能两阶段调度控制",
+    "missing_axes": [
+      "TRL",
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-05-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0525-N01",
+    "canonical_name": "储能选址定容混合整数线性规划",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0529-N01",
+    "canonical_name": "溶剂辅助再结晶混合气相沉积钙钛矿成膜",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2023-07-19",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0531-N01",
+    "canonical_name": "钙钛矿老化漂移扩散与传输矩阵建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0532-N01",
+    "canonical_name": "考虑离子迁移的钙钛矿硅叠层测量建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-02-11",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0533-N01",
+    "canonical_name": "GaN MOS-HEMT宽带小信号建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2021-10-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0535-N01",
+    "canonical_name": "燃料电池离心空压机代理模型多目标设计",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-05-29",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0540-N01",
+    "canonical_name": "低压配电网在线电压调节",
+    "missing_axes": [],
+    "evidence_period": "不晚于所引文献公开日期 2016-10-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0543-N01",
+    "canonical_name": "电解制氢加氢站储罐压缩机运行仿真",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2023-09-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0546-N01",
+    "canonical_name": "铁氧体辐条永磁泵用电机设计",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-07-03",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0549-N01",
+    "canonical_name": "高压断路器并联电容介损诊断",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2011-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0552-N01",
+    "canonical_name": "混合直流微电网自适应能量控制",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2014-09-16",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0556-N01",
+    "canonical_name": "ZIF-8聚合物电纺膜锌负极保护",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-02-03",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0559-N01",
+    "canonical_name": "PDMS壳聚糖复合表面雾水采集",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-03-07",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0562-N01",
+    "canonical_name": "HFC152a及混配制冷剂循环应用",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2010-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0565-N01",
+    "canonical_name": "ALD氧化铝包覆镍催化甲烷干重整",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-03-24",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0576-N01",
+    "canonical_name": "Co-S-B双功能电极零间隙碱性电解",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-09-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0579-N01",
+    "canonical_name": "分段外转子同步磁阻电机代理建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2014-05-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0582-N01",
+    "canonical_name": "含时延孤岛微电网PI观测器协同调压",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-05-31",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0585-N01",
+    "canonical_name": "温控狭缝涂布柔性有机光伏",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-01-24",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0588-N01",
+    "canonical_name": "变电站爆破接地降阻",
+    "missing_axes": [
+      "TRL",
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2001-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0591-N01",
+    "canonical_name": "无源分数阶电池等效电路建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-01-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0597-N01",
+    "canonical_name": "SC-CNN-LSTM充电负荷预测",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-04-04",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0600-N01",
+    "canonical_name": "PEI捕碳吸附剂NMR降解诊断",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2024-04-24",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0603-N01",
+    "canonical_name": "溶胶凝胶ZnO太阳光催化染料降解",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-04-30",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0606-N01",
+    "canonical_name": "岩石圈稳态三维地热温度建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-01-20",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0609-N01",
+    "canonical_name": "双电感非隔离部分功率直流变换",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-02-06",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0616-N01",
+    "canonical_name": "PI/LLZTO纳米纤维隔膜锂金属界面稳定",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-01-27",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0627-N01",
+    "canonical_name": "永磁偏置环形功率电感设计",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2015-05-21",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0632-N01",
+    "canonical_name": "DDQN/PER电动车路径补能规划",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-12-26",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0637-N01",
+    "canonical_name": "MMC电流传感器协同故障诊断",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-03-18",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0644-N01",
+    "canonical_name": "微气泡水吸收再生分离二氧化碳",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2020-12-02",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0650-N01",
+    "canonical_name": "热泵室外机空气旁通孔口测量模型",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-08-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0661-N01",
+    "canonical_name": "压电自供能无线SAW温度传感",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2015-03-29",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0667-N01",
+    "canonical_name": "储能电网调频控制软件",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2014-09-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0673-N01",
+    "canonical_name": "硫化物固态电解质连续机械化学制备",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-04-11",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0679-N01",
+    "canonical_name": "FPGA选择性谐波消除及SPWM控制",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-01-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0685-N01",
+    "canonical_name": "智能电表多层数据安全防护",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2022-04-28",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0690-N01",
+    "canonical_name": "知识图谱与案例推理电力应急调度",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-08-18",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0657-N01",
+    "canonical_name": "半桥电感电容模块化电芯均衡",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2020-02-06",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0660-N01",
+    "canonical_name": "热预处理耦合生物浸出电池黑粉回收",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-04-27",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0697-N01",
+    "canonical_name": "废PET衍生钾离子电池有机负极",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2023-06-07",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0703-N01",
+    "canonical_name": "下射锅炉旋流燃烧器二次风角优化",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2013-02-05",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0708-N01",
+    "canonical_name": "负载均衡电缆桥架支架布设",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-04-21",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0713-N01",
+    "canonical_name": "CNN-MLP/MPA电价预测",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-01-31",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0718-N01",
+    "canonical_name": "RNN灰色关联配电规划可靠性建模",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-11-01",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0725-N01",
+    "canonical_name": "沸石催化废塑料热解与余热发电",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2026-06-23",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0737-N01",
+    "canonical_name": "SVC/TCSC联合无功补偿控制",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2021-08-25",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0742-N01",
+    "canonical_name": "硫醇修饰Ru/rGO氮气电还原制氨",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2020-08-07",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "C0747-N01",
+    "canonical_name": "PLC/IoT轻量认证与本地入侵检测",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "不晚于所引文献公开日期 2025-05-02",
+    "required_evidence": [
+      "专属评价细则及关键风险覆盖审定",
+      "所缺轴对应的同对象测试或商业履约证据",
+      "自评和独立专家评价"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W001",
+    "canonical_name": "WindFloat Atlantic三台WindFloat T浮式平台",
+    "missing_axes": [],
+    "evidence_period": "2020—2024",
+    "required_evidence": [
+      "缺项目审定专属细则和独立专家评价",
+      "缺连续净收益及完整市场分母，CRL4/5不判"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W002",
+    "canonical_name": "格力大小容积切换家用多联机49套应用",
+    "missing_axes": [],
+    "evidence_period": "2018—2019",
+    "required_evidence": [
+      "未取得采购金额及回款材料",
+      "预计回收期不能支持CRL4"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W003",
+    "canonical_name": "特锐德成都公交群智能充电网络",
+    "missing_axes": [],
+    "evidence_period": "截至2019；实施4年",
+    "required_evidence": [
+      "节油量是综合案例效果，不能归因于算法单项",
+      "缺项目现金流、回款及市场份额分母"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W004",
+    "canonical_name": "共济XVAC精密空调控制柜京南云10台应用",
+    "missing_axes": [],
+    "evidence_period": "不晚于2019；实施20天",
+    "required_evidence": [
+      "有供方与改造记录，但未取得明确销售/供货合同或付费履约材料",
+      "供应商净收益未知"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W005",
+    "canonical_name": "华厚RED-HOO相变储热26套供暖应用",
+    "missing_axes": [],
+    "evidence_period": "不晚于2019；实施2个月",
+    "required_evidence": [
+      "缺实测储热循环衰减原始记录",
+      "缺合同及结算；预测5000次寿命、30个月回收期不用于商业升级"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W006",
+    "canonical_name": "华航HSRT三台向心式ORC余热发电",
+    "missing_axes": [],
+    "evidence_period": "不晚于2019；实施19个月",
+    "required_evidence": [
+      "缺用户侧验收和分时实测电量",
+      "明确商业供货/结算材料缺失，CRL3暂不判"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W007",
+    "canonical_name": "德邦热水型溴化锂制冷余热改造",
+    "missing_axes": [],
+    "evidence_period": "不晚于2019；实施3个月",
+    "required_evidence": [
+      "缺明确商业供货条款、结算",
+      "不得将8000小时假定年节电量当作实测"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W008",
+    "canonical_name": "哈锅常熟3×650MW锅炉升参数改造",
+    "missing_axes": [],
+    "evidence_period": "不晚于2019；改造7个月",
+    "required_evidence": [
+      "原文缺改造准确年月和原始性能试验报告",
+      "缺本次工程商业履约证明及实际投资回收"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W009",
+    "canonical_name": "誉特双菏泽富海20MW汽轮机通流EMC改造",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "不晚于2019；实施3个月",
+    "required_evidence": [
+      "TRL缺预设要求—实测对照、型式/全面测试及推广条件证据",
+      "CRL4缺连续回款与净收益"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W010",
+    "canonical_name": "清创晋华临猗水冷壁废锅水煤浆气化改造",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "不晚于2019；实施8个月",
+    "required_evidence": [
+      "单项目尚缺具体指标目标和验收测试",
+      "缺明确商业履约与规模应用证据"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W011",
+    "canonical_name": "Pelham储能项目26台Sunny Central Storage 2475",
+    "missing_axes": [
+      "TRL",
+      "CRL"
+    ],
+    "evidence_period": "2017-11投运",
+    "required_evidence": [
+      "存在签约到调试的时间记录，但买方法人未在该页面明确",
+      "缺实际市场收入与设备效率试验明细"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W012",
+    "canonical_name": "REFHYNE莱茵炼厂10MW PEM电解系统",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "2018—2024；2023中完成调试",
+    "required_evidence": [
+      "缺预设产氢、纯度、可靠性指标与完整测试对照，TRL暂不判",
+      "缺该10MW项目明确付费供氢/设备供货履约及持续盈利"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W013",
+    "canonical_name": "Lingen PEM制氢至Evonik的初次工业供氢路线",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "2026-08-04",
+    "required_evidence": [
+      "TRL仍缺完整调试/验收及主要性能达标证据",
+      "交付仅初始数量，未披露数量价格和持续盈利"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W014",
+    "canonical_name": "Hornsdale一期100MW储能调频服务系统",
+    "missing_axes": [],
+    "evidence_period": "2017—2019",
+    "required_evidence": [
+      "没有把Aurecon报告冒充项目独立专家评价或财务审计",
+      "缺对象级连续净收益；不因15%市场容量份额直接给CRL5"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W015",
+    "canonical_name": "Sleipner Utsira地层二氧化碳注入封存",
+    "missing_axes": [
+      "CRL"
+    ],
+    "evidence_period": "1996—2020",
+    "required_evidence": [
+      "CRL缺所评封存技术本身的商业履约和经济模式证据",
+      "未复核2021—2026封存量与泄漏监测原始数据"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W016",
+    "canonical_name": "Danucem TURBODEN 50 HR余热ORC及修复服务",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "2013起运行；维修确切年份未署",
+    "required_evidence": [
+      "TRL缺推广边界和连续可靠性、具体试验验收资料",
+      "商业履约日期只有事件区间；缺结算与持续利润"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W017",
+    "canonical_name": "HeliaSol西门子能源纽伦堡工厂立面太阳能薄膜",
+    "missing_axes": [
+      "TRL"
+    ],
+    "evidence_period": "2023-09安装；2023-12公开",
+    "required_evidence": [
+      "安装完成不等于发电功能验证，TRL暂不判",
+      "缺明确商业销售履约及实际发电数据"
+    ],
+    "formal_review_required": true
+  },
+  {
+    "case_id": "W018",
+    "canonical_name": "嘉轩丁集矿永磁直驱电动滚筒两套应用",
+    "missing_axes": [],
+    "evidence_period": "不晚于2019；实施1个月",
+    "required_evidence": [
+      "缺销售供货或EMC履约材料",
+      "缺电机独立型式试验和磁路技术专属细则"
+    ],
+    "formal_review_required": true
+  }
+]

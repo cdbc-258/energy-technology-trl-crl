@@ -1,0 +1,15 @@
+{
+  "theme_count": 500,
+  "bounded_cases_recomputed": 122,
+  "directions_remapped": 391,
+  "themes_with_top1_candidate_cases": 91,
+  "themes_without_top1_candidate_cases": 409,
+  "all_new_mapping_links_require_review": true,
+  "new_external_sources_added": 0,
+  "stage_changes_after_taxonomy_switch": {
+    "trl": 0,
+    "crl": 0
+  },
+  "source_evidence_cutoff": "2026-09-25",
+  "hotspot_cutoff": "2026-06-30"
+}

@@ -1,0 +1,25 @@
+{
+  "assessment_cutoff": "2026-09-25",
+  "classification_themes": 500,
+  "candidate_directions": 391,
+  "evaluation_basis": {
+    "TRL": "Q/GDW 12566—2025，第5章、第6章表1及附录",
+    "CRL": "招标书五级定义与六维商业指标；项目研究操作规则"
+  },
+  "assessment_type": "限定配置、场景、时期的公开证据初评",
+  "formal_assessment": false,
+  "search_coverage": {
+    "queries": 493,
+    "raw_news_hits": 6422,
+    "unique_news_urls": 5154,
+    "scope": "Google News RSS与政府/项目/机构库/供应商资料；检索命中不等于已接受证据"
+  },
+  "source_document_distribution_note": "NMF500 frozen-sample theme counts; papers use fixed-H L2 contribution labels, patents/policies use paper-centroid cosine; dates and confidence audited separately.",
+  "patent_rule": "专利申请/授权仅可作辅助信息，不独立决定CRL；许可/转让需同对象实际履约证据",
+  "total_source_records": 165783,
+  "assigned_records": 165677,
+  "unassigned_or_quarantined_records": 106,
+  "new_evidence_search_performed": false,
+  "taxonomy_run": "nmf500-sample-v0.2.1",
+  "evidence_refresh_note": "Existing accepted evidence re-evaluated independently; evidence cutoff remains 2026-09-25; theme mapping alone does not upgrade either axis"
+}

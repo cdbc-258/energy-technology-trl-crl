@@ -1,0 +1,47 @@
+{
+  "passed": 10,
+  "total": 10,
+  "checks": [
+    {
+      "check": "reproduce_assessment_units",
+      "passed": true
+    },
+    {
+      "check": "reproduce_assessments",
+      "passed": true
+    },
+    {
+      "check": "reproduce_direction_evidence_profiles",
+      "passed": true
+    },
+    {
+      "check": "reproduce_same_case_coordinates",
+      "passed": true
+    },
+    {
+      "check": "reproduce_evidence_gaps",
+      "passed": true
+    },
+    {
+      "check": "reproduce_SUMMARY",
+      "passed": true
+    },
+    {
+      "check": "no_formal_grades",
+      "passed": true
+    },
+    {
+      "check": "no_direction_scalar",
+      "passed": true
+    },
+    {
+      "check": "paired_axes_same_object",
+      "passed": true
+    },
+    {
+      "check": "input_checksums",
+      "passed": true
+    }
+  ],
+  "interpretation": "引文完整性、来源外键和逐门槛计算验证；不是语义准确率或专家认可率"
+}

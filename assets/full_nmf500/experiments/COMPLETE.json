@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "classification_summary_sha256": "67d7d140720a99a87ae46fcf171e34515c1629ae4a402aa116dc30b1e4683568",
+  "files": {
+    "mapping_sensitivity.csv": "ae119a1f3129240a10a5317a21872363e5e9252f90d8b3545c5a9ed027dae4ad",
+    "full_topic_case_fragility.csv": "94ee53401105979d6d09b9cb3325daef7aa9e58f81a5b8cc4b3619bbaac7c7e2",
+    "evidence_scenarios.csv": "764ddd7570def6bfce4c0d90536a81113990af1f03f04b711cc74dbc4e87b85e",
+    "case_fragility.csv": "a042277d7c6bd5d123401154ab7d864d6fcd904c206731dfce9bab8c57000e67",
+    "changed_cases.csv": "89184570936b1fdc63683ea2f8361dce6725ed3f6794999ad39c1bcdd9cdcd64",
+    "REPORT.md": "fc52e2fc5e064740cfd7b6e15a3136f650e502f2623c2f4ab7e9f574e5cc04a0",
+    "SUMMARY.json": "620dcb4453c2a9c25698192ee4f660430e35be2a8ed0c060303e180ea5750628"
+  },
+  "documentation_normalized": true,
+  "source_complete_sha256": "9ba7cb65a67ba490870d285bb763d07935103b3d2b1fa67db50d6d4622775b44",
+  "readable_report_refreshed": true
+}

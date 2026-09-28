@@ -1,0 +1,93 @@
+[
+  {
+    "case_id": "C0435-B01",
+    "canonical_name": "可配置宽带电力线通信波形",
+    "TRL": 4,
+    "CRL": 2,
+    "period": "未明确；仅知不晚于证据公开时间"
+  },
+  {
+    "case_id": "C0665-B01",
+    "canonical_name": "大螺旋角无缝内螺纹铜管换热强化",
+    "TRL": 9,
+    "CRL": 3,
+    "period": "2015-01—2019 年中"
+  },
+  {
+    "case_id": "C0540-N01",
+    "canonical_name": "低压配电网在线电压调节",
+    "TRL": 6,
+    "CRL": 2,
+    "period": "不晚于所引文献公开日期 2016-10-01"
+  },
+  {
+    "case_id": "W001",
+    "canonical_name": "WindFloat Atlantic三台WindFloat T浮式平台",
+    "TRL": 9,
+    "CRL": 3,
+    "period": "2020—2024"
+  },
+  {
+    "case_id": "W002",
+    "canonical_name": "格力大小容积切换家用多联机49套应用",
+    "TRL": 9,
+    "CRL": 3,
+    "period": "2018—2019"
+  },
+  {
+    "case_id": "W003",
+    "canonical_name": "特锐德成都公交群智能充电网络",
+    "TRL": 9,
+    "CRL": 3,
+    "period": "截至2019；实施4年"
+  },
+  {
+    "case_id": "W004",
+    "canonical_name": "共济XVAC精密空调控制柜京南云10台应用",
+    "TRL": 9,
+    "CRL": 2,
+    "period": "不晚于2019；实施20天"
+  },
+  {
+    "case_id": "W005",
+    "canonical_name": "华厚RED-HOO相变储热26套供暖应用",
+    "TRL": 9,
+    "CRL": 2,
+    "period": "不晚于2019；实施2个月"
+  },
+  {
+    "case_id": "W006",
+    "canonical_name": "华航HSRT三台向心式ORC余热发电",
+    "TRL": 9,
+    "CRL": 2,
+    "period": "不晚于2019；实施19个月"
+  },
+  {
+    "case_id": "W007",
+    "canonical_name": "德邦热水型溴化锂制冷余热改造",
+    "TRL": 9,
+    "CRL": 2,
+    "period": "不晚于2019；实施3个月"
+  },
+  {
+    "case_id": "W008",
+    "canonical_name": "哈锅常熟3×650MW锅炉升参数改造",
+    "TRL": 9,
+    "CRL": 2,
+    "period": "不晚于2019；改造7个月"
+  },
+  {
+    "case_id": "W014",
+    "canonical_name": "Hornsdale一期100MW储能调频服务系统",
+    "TRL": 9,
+    "CRL": 3,
+    "period": "2017—2019"
+  },
+  {
+    "case_id": "W018",
+    "canonical_name": "嘉轩丁集矿永磁直驱电动滚筒两套应用",
+    "TRL": 9,
+    "CRL": 2,
+    "period": "不晚于2019；实施1个月"
+  }
+]

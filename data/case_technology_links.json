@@ -1,0 +1,1673 @@
+[
+  {
+    "case_id": "C0009-B01",
+    "technology_id": "TR-C0009-B01",
+    "assessment_unit_id": "AU-C0009-B01",
+    "category_id": "C0009",
+    "parent_direction_ids": [
+      "TD-f3c8506f53f3"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0493-B01",
+    "technology_id": "TR-C0493-B01",
+    "assessment_unit_id": "AU-C0493-B01",
+    "category_id": "C0493",
+    "parent_direction_ids": [
+      "TD-0f14b93ac103"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0060-B01",
+    "technology_id": "TR-C0060-B01",
+    "assessment_unit_id": "AU-C0060-B01",
+    "category_id": "C0060",
+    "parent_direction_ids": [
+      "TD-95f7bda4c624"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0067-B01",
+    "technology_id": "TR-C0067-B01",
+    "assessment_unit_id": "AU-C0067-B01",
+    "category_id": "C0067",
+    "parent_direction_ids": [
+      "TD-2a1e47b3ac00"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0091-B01",
+    "technology_id": "TR-C0091-B01",
+    "assessment_unit_id": "AU-C0091-B01",
+    "category_id": "C0091",
+    "parent_direction_ids": [
+      "TD-de571a213332"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0098-B01",
+    "technology_id": "TR-C0098-B01",
+    "assessment_unit_id": "AU-C0098-B01",
+    "category_id": "C0098",
+    "parent_direction_ids": [
+      "TD-44fbc5c40475"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0122-B01",
+    "technology_id": "TR-C0122-B01",
+    "assessment_unit_id": "AU-C0122-B01",
+    "category_id": "C0122",
+    "parent_direction_ids": [
+      "TD-abd6fb94cdd4"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0124-B01",
+    "technology_id": "TR-C0124-B01",
+    "assessment_unit_id": "AU-C0124-B01",
+    "category_id": "C0124",
+    "parent_direction_ids": [
+      "TD-fe3f1fb32045"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0155-B01",
+    "technology_id": "TR-C0155-B01",
+    "assessment_unit_id": "AU-C0155-B01",
+    "category_id": "C0155",
+    "parent_direction_ids": [
+      "TD-4ae1d866567b"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0593-B01",
+    "technology_id": "TR-C0593-B01",
+    "assessment_unit_id": "AU-C0593-B01",
+    "category_id": "C0593",
+    "parent_direction_ids": [
+      "TD-7006106bb1f8"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0186-B01",
+    "technology_id": "TR-C0186-B01",
+    "assessment_unit_id": "AU-C0186-B01",
+    "category_id": "C0186",
+    "parent_direction_ids": [
+      "TD-456c50273fbd"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0191-B01",
+    "technology_id": "TR-C0191-B01",
+    "assessment_unit_id": "AU-C0191-B01",
+    "category_id": "C0191",
+    "parent_direction_ids": [
+      "TD-a28940cce132"
+    ],
+    "relation_to_direction": "distinct_application_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0210-B01",
+    "technology_id": "TR-C0210-B01",
+    "assessment_unit_id": "AU-C0210-B01",
+    "category_id": "C0210",
+    "parent_direction_ids": [
+      "TD-98a6a5c8a829"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0216-B01",
+    "technology_id": "TR-C0216-B01",
+    "assessment_unit_id": "AU-C0216-B01",
+    "category_id": "C0216",
+    "parent_direction_ids": [
+      "TD-d81dec76672d"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0221-B01",
+    "technology_id": "TR-C0221-B01",
+    "assessment_unit_id": "AU-C0221-B01",
+    "category_id": "C0221",
+    "parent_direction_ids": [
+      "TD-ff82004cc0d2"
+    ],
+    "relation_to_direction": "diagnostics_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0246-B01",
+    "technology_id": "TR-C0246-B01",
+    "assessment_unit_id": "AU-C0246-B01",
+    "category_id": "C0246",
+    "parent_direction_ids": [
+      "TD-db6bae9a4087"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0251-B01",
+    "technology_id": "TR-C0251-B01",
+    "assessment_unit_id": "AU-C0251-B01",
+    "category_id": "C0251",
+    "parent_direction_ids": [
+      "TD-12341d8e8c42"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0254-B01",
+    "technology_id": "TR-C0254-B01",
+    "assessment_unit_id": "AU-C0254-B01",
+    "category_id": "C0254",
+    "parent_direction_ids": [
+      "TD-cdfac0fb0d6b"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0518-B01",
+    "technology_id": "TR-C0518-B01",
+    "assessment_unit_id": "AU-C0518-B01",
+    "category_id": "C0518",
+    "parent_direction_ids": [
+      "TD-dbc64cde7e29"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0278-B01",
+    "technology_id": "TR-C0278-B01",
+    "assessment_unit_id": "AU-C0278-B01",
+    "category_id": "C0278",
+    "parent_direction_ids": [
+      "TD-03fabc429504"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0294-B01",
+    "technology_id": "TR-C0294-B01",
+    "assessment_unit_id": "AU-C0294-B01",
+    "category_id": "C0294",
+    "parent_direction_ids": [
+      "TD-6cd003f3648b"
+    ],
+    "relation_to_direction": "diagnostics_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0684-B01",
+    "technology_id": "TR-C0684-B01",
+    "assessment_unit_id": "AU-C0684-B01",
+    "category_id": "C0684",
+    "parent_direction_ids": [
+      "TD-d5098a789e1b"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0356-B01",
+    "technology_id": "TR-C0356-B01",
+    "assessment_unit_id": "AU-C0356-B01",
+    "category_id": "C0356",
+    "parent_direction_ids": [
+      "TD-47ce229ebe9a"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0435-B01",
+    "technology_id": "TR-C0435-B01",
+    "assessment_unit_id": "AU-C0435-B01",
+    "category_id": "C0435",
+    "parent_direction_ids": [
+      "TD-2786e9d66efb"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0443-B01",
+    "technology_id": "TR-C0443-B01",
+    "assessment_unit_id": "AU-C0443-B01",
+    "category_id": "C0443",
+    "parent_direction_ids": [
+      "TD-44fbc5c40475"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0191-B02",
+    "technology_id": "TR-C0191-B02",
+    "assessment_unit_id": "AU-C0191-B02",
+    "category_id": "C0191",
+    "parent_direction_ids": [
+      "TD-a28940cce132",
+      "TD-f3cfa5989726"
+    ],
+    "relation_to_direction": "distinct_application_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0665-B01",
+    "technology_id": "TR-C0665-B01",
+    "assessment_unit_id": "AU-C0665-B01",
+    "category_id": "C0665",
+    "parent_direction_ids": [
+      "TD-b93e9651484a"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0098-B02",
+    "technology_id": "TR-C0098-B02",
+    "assessment_unit_id": "AU-C0098-B02",
+    "category_id": "C0098",
+    "parent_direction_ids": [
+      "TD-44fbc5c40475",
+      "TD-9b2981df91df"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0509-B01",
+    "technology_id": "TR-C0509-B01",
+    "assessment_unit_id": "AU-C0509-B01",
+    "category_id": "C0509",
+    "parent_direction_ids": [
+      "TD-44132ecdb0ad"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0246-B02",
+    "technology_id": "TR-C0246-B02",
+    "assessment_unit_id": "AU-C0246-B02",
+    "category_id": "C0246",
+    "parent_direction_ids": [
+      "TD-db6bae9a4087"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0356-B02",
+    "technology_id": "TR-C0356-B02",
+    "assessment_unit_id": "AU-C0356-B02",
+    "category_id": "C0356",
+    "parent_direction_ids": [
+      "TD-b023fc57faa5"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0124-B02",
+    "technology_id": "TR-C0124-B02",
+    "assessment_unit_id": "AU-C0124-B02",
+    "category_id": "C0124",
+    "parent_direction_ids": [
+      "TD-fe3f1fb32045"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0487-N01",
+    "technology_id": "TR-C0487-N01",
+    "assessment_unit_id": "AU-C0487-N01",
+    "category_id": "C0487",
+    "parent_direction_ids": [
+      "TD-bc9274e0e45f"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0490-N01",
+    "technology_id": "TR-C0490-N01",
+    "assessment_unit_id": "AU-C0490-N01",
+    "category_id": "C0490",
+    "parent_direction_ids": [
+      "TD-883baafccc54"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0491-N01",
+    "technology_id": "TR-C0491-N01",
+    "assessment_unit_id": "AU-C0491-N01",
+    "category_id": "C0491",
+    "parent_direction_ids": [
+      "TD-cf2af8ae4a11"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0492-N01",
+    "technology_id": "TR-C0492-N01",
+    "assessment_unit_id": "AU-C0492-N01",
+    "category_id": "C0492",
+    "parent_direction_ids": [
+      "TD-6612e08f12a2"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0494-N01",
+    "technology_id": "TR-C0494-N01",
+    "assessment_unit_id": "AU-C0494-N01",
+    "category_id": "C0494",
+    "parent_direction_ids": [
+      "TD-ff37efe1af0a"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0495-N01",
+    "technology_id": "TR-C0495-N01",
+    "assessment_unit_id": "AU-C0495-N01",
+    "category_id": "C0495",
+    "parent_direction_ids": [
+      "TD-a196c553c6e3"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0497-N01",
+    "technology_id": "TR-C0497-N01",
+    "assessment_unit_id": "AU-C0497-N01",
+    "category_id": "C0497",
+    "parent_direction_ids": [
+      "TD-c3bbbb8169b8"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0499-N01",
+    "technology_id": "TR-C0499-N01",
+    "assessment_unit_id": "AU-C0499-N01",
+    "category_id": "C0499",
+    "parent_direction_ids": [
+      "TD-d2f810c5f9b1"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0500-N01",
+    "technology_id": "TR-C0500-N01",
+    "assessment_unit_id": "AU-C0500-N01",
+    "category_id": "C0500",
+    "parent_direction_ids": [
+      "TD-3cc61ee0b345"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0501-N01",
+    "technology_id": "TR-C0501-N01",
+    "assessment_unit_id": "AU-C0501-N01",
+    "category_id": "C0501",
+    "parent_direction_ids": [
+      "TD-b226be5bdae1"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0502-N01",
+    "technology_id": "TR-C0502-N01",
+    "assessment_unit_id": "AU-C0502-N01",
+    "category_id": "C0502",
+    "parent_direction_ids": [
+      "TD-aafb22d424bc"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0504-N01",
+    "technology_id": "TR-C0504-N01",
+    "assessment_unit_id": "AU-C0504-N01",
+    "category_id": "C0504",
+    "parent_direction_ids": [
+      "TD-e10d14f760bc"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0507-N01",
+    "technology_id": "TR-C0507-N01",
+    "assessment_unit_id": "AU-C0507-N01",
+    "category_id": "C0507",
+    "parent_direction_ids": [
+      "TD-ce3d305067c5"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0510-N01",
+    "technology_id": "TR-C0510-N01",
+    "assessment_unit_id": "AU-C0510-N01",
+    "category_id": "C0510",
+    "parent_direction_ids": [
+      "TD-23250fd6d8f2"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0512-N01",
+    "technology_id": "TR-C0512-N01",
+    "assessment_unit_id": "AU-C0512-N01",
+    "category_id": "C0512",
+    "parent_direction_ids": [
+      "TD-4559c46ecf6b"
+    ],
+    "relation_to_direction": "related_function",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0513-N01",
+    "technology_id": "TR-C0513-N01",
+    "assessment_unit_id": "AU-C0513-N01",
+    "category_id": "C0513",
+    "parent_direction_ids": [
+      "TD-299bb7ce68c5"
+    ],
+    "relation_to_direction": "distinct_application_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0514-N01",
+    "technology_id": "TR-C0514-N01",
+    "assessment_unit_id": "AU-C0514-N01",
+    "category_id": "C0514",
+    "parent_direction_ids": [
+      "TD-c2cf8c36b018"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0515-N01",
+    "technology_id": "TR-C0515-N01",
+    "assessment_unit_id": "AU-C0515-N01",
+    "category_id": "C0515",
+    "parent_direction_ids": [
+      "TD-a0a40ee7ee32"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0517-N01",
+    "technology_id": "TR-C0517-N01",
+    "assessment_unit_id": "AU-C0517-N01",
+    "category_id": "C0517",
+    "parent_direction_ids": [
+      "TD-d63525b9f25a"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0519-N01",
+    "technology_id": "TR-C0519-N01",
+    "assessment_unit_id": "AU-C0519-N01",
+    "category_id": "C0519",
+    "parent_direction_ids": [
+      "TD-6340d8da0763"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0520-N01",
+    "technology_id": "TR-C0520-N01",
+    "assessment_unit_id": "AU-C0520-N01",
+    "category_id": "C0520",
+    "parent_direction_ids": [
+      "TD-0202c7239fab"
+    ],
+    "relation_to_direction": "principle_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0521-N01",
+    "technology_id": "TR-C0521-N01",
+    "assessment_unit_id": "AU-C0521-N01",
+    "category_id": "C0521",
+    "parent_direction_ids": [
+      "TD-d2da57e12402"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0524-N01",
+    "technology_id": "TR-C0524-N01",
+    "assessment_unit_id": "AU-C0524-N01",
+    "category_id": "C0524",
+    "parent_direction_ids": [
+      "TD-059fb53c2985"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0525-N01",
+    "technology_id": "TR-C0525-N01",
+    "assessment_unit_id": "AU-C0525-N01",
+    "category_id": "C0525",
+    "parent_direction_ids": [
+      "TD-794e423a2367"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0529-N01",
+    "technology_id": "TR-C0529-N01",
+    "assessment_unit_id": "AU-C0529-N01",
+    "category_id": "C0529",
+    "parent_direction_ids": [
+      "TD-11355bb229b9"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0531-N01",
+    "technology_id": "TR-C0531-N01",
+    "assessment_unit_id": "AU-C0531-N01",
+    "category_id": "C0531",
+    "parent_direction_ids": [
+      "TD-69b1a46da667"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0532-N01",
+    "technology_id": "TR-C0532-N01",
+    "assessment_unit_id": "AU-C0532-N01",
+    "category_id": "C0532",
+    "parent_direction_ids": [
+      "TD-cd7b7bbddc73"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0533-N01",
+    "technology_id": "TR-C0533-N01",
+    "assessment_unit_id": "AU-C0533-N01",
+    "category_id": "C0533",
+    "parent_direction_ids": [
+      "TD-3a1b5457e4b4"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0535-N01",
+    "technology_id": "TR-C0535-N01",
+    "assessment_unit_id": "AU-C0535-N01",
+    "category_id": "C0535",
+    "parent_direction_ids": [
+      "TD-97b535e60e5c"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0540-N01",
+    "technology_id": "TR-C0540-N01",
+    "assessment_unit_id": "AU-C0540-N01",
+    "category_id": "C0540",
+    "parent_direction_ids": [
+      "TD-fd09de762c72"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0543-N01",
+    "technology_id": "TR-C0543-N01",
+    "assessment_unit_id": "AU-C0543-N01",
+    "category_id": "C0543",
+    "parent_direction_ids": [
+      "TD-c1448e0818db"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0546-N01",
+    "technology_id": "TR-C0546-N01",
+    "assessment_unit_id": "AU-C0546-N01",
+    "category_id": "C0546",
+    "parent_direction_ids": [
+      "TD-a117845f7d16"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0549-N01",
+    "technology_id": "TR-C0549-N01",
+    "assessment_unit_id": "AU-C0549-N01",
+    "category_id": "C0549",
+    "parent_direction_ids": [
+      "TD-59f701019f2b"
+    ],
+    "relation_to_direction": "diagnostics_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0552-N01",
+    "technology_id": "TR-C0552-N01",
+    "assessment_unit_id": "AU-C0552-N01",
+    "category_id": "C0552",
+    "parent_direction_ids": [
+      "TD-0b5d842144bb"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0556-N01",
+    "technology_id": "TR-C0556-N01",
+    "assessment_unit_id": "AU-C0556-N01",
+    "category_id": "C0556",
+    "parent_direction_ids": [
+      "TD-49bb9d2994cc"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0559-N01",
+    "technology_id": "TR-C0559-N01",
+    "assessment_unit_id": "AU-C0559-N01",
+    "category_id": "C0559",
+    "parent_direction_ids": [
+      "TD-556b8ec095bb"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0562-N01",
+    "technology_id": "TR-C0562-N01",
+    "assessment_unit_id": "AU-C0562-N01",
+    "category_id": "C0562",
+    "parent_direction_ids": [
+      "TD-7658a8d56ac8"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0565-N01",
+    "technology_id": "TR-C0565-N01",
+    "assessment_unit_id": "AU-C0565-N01",
+    "category_id": "C0565",
+    "parent_direction_ids": [
+      "TD-785edc80c8a0"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0576-N01",
+    "technology_id": "TR-C0576-N01",
+    "assessment_unit_id": "AU-C0576-N01",
+    "category_id": "C0576",
+    "parent_direction_ids": [
+      "TD-78d13348ef87"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0579-N01",
+    "technology_id": "TR-C0579-N01",
+    "assessment_unit_id": "AU-C0579-N01",
+    "category_id": "C0579",
+    "parent_direction_ids": [
+      "TD-0404dcecc6d5"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0582-N01",
+    "technology_id": "TR-C0582-N01",
+    "assessment_unit_id": "AU-C0582-N01",
+    "category_id": "C0582",
+    "parent_direction_ids": [
+      "TD-a455bbb37134"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0585-N01",
+    "technology_id": "TR-C0585-N01",
+    "assessment_unit_id": "AU-C0585-N01",
+    "category_id": "C0585",
+    "parent_direction_ids": [
+      "TD-622c07812fd2"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0588-N01",
+    "technology_id": "TR-C0588-N01",
+    "assessment_unit_id": "AU-C0588-N01",
+    "category_id": "C0588",
+    "parent_direction_ids": [
+      "TD-d35aee62734e"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0591-N01",
+    "technology_id": "TR-C0591-N01",
+    "assessment_unit_id": "AU-C0591-N01",
+    "category_id": "C0591",
+    "parent_direction_ids": [
+      "TD-366f2d3585db"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0597-N01",
+    "technology_id": "TR-C0597-N01",
+    "assessment_unit_id": "AU-C0597-N01",
+    "category_id": "C0597",
+    "parent_direction_ids": [
+      "TD-ecc50211a5fa"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0600-N01",
+    "technology_id": "TR-C0600-N01",
+    "assessment_unit_id": "AU-C0600-N01",
+    "category_id": "C0600",
+    "parent_direction_ids": [
+      "TD-4462cc4da3ea",
+      "TD-945ce5aefa66"
+    ],
+    "relation_to_direction": "diagnostics_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0603-N01",
+    "technology_id": "TR-C0603-N01",
+    "assessment_unit_id": "AU-C0603-N01",
+    "category_id": "C0603",
+    "parent_direction_ids": [
+      "TD-27832e21c62f"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0606-N01",
+    "technology_id": "TR-C0606-N01",
+    "assessment_unit_id": "AU-C0606-N01",
+    "category_id": "C0606",
+    "parent_direction_ids": [
+      "TD-4bde32b15551"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0609-N01",
+    "technology_id": "TR-C0609-N01",
+    "assessment_unit_id": "AU-C0609-N01",
+    "category_id": "C0609",
+    "parent_direction_ids": [
+      "TD-06f19c1f19b4"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0616-N01",
+    "technology_id": "TR-C0616-N01",
+    "assessment_unit_id": "AU-C0616-N01",
+    "category_id": "C0616",
+    "parent_direction_ids": [
+      "TD-ff82004cc0d2"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0627-N01",
+    "technology_id": "TR-C0627-N01",
+    "assessment_unit_id": "AU-C0627-N01",
+    "category_id": "C0627",
+    "parent_direction_ids": [
+      "TD-6bb58a22a32e"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0632-N01",
+    "technology_id": "TR-C0632-N01",
+    "assessment_unit_id": "AU-C0632-N01",
+    "category_id": "C0632",
+    "parent_direction_ids": [
+      "TD-e468bc590418"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0637-N01",
+    "technology_id": "TR-C0637-N01",
+    "assessment_unit_id": "AU-C0637-N01",
+    "category_id": "C0637",
+    "parent_direction_ids": [
+      "TD-18b5e8b3071f"
+    ],
+    "relation_to_direction": "diagnostics_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0644-N01",
+    "technology_id": "TR-C0644-N01",
+    "assessment_unit_id": "AU-C0644-N01",
+    "category_id": "C0644",
+    "parent_direction_ids": [
+      "TD-bb3dcdb02348"
+    ],
+    "relation_to_direction": "related_function",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0650-N01",
+    "technology_id": "TR-C0650-N01",
+    "assessment_unit_id": "AU-C0650-N01",
+    "category_id": "C0650",
+    "parent_direction_ids": [
+      "TD-9f5c36c5c5f8"
+    ],
+    "relation_to_direction": "testing_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0661-N01",
+    "technology_id": "TR-C0661-N01",
+    "assessment_unit_id": "AU-C0661-N01",
+    "category_id": "C0661",
+    "parent_direction_ids": [
+      "TD-7fe3183ccd8d"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0667-N01",
+    "technology_id": "TR-C0667-N01",
+    "assessment_unit_id": "AU-C0667-N01",
+    "category_id": "C0667",
+    "parent_direction_ids": [
+      "TD-7ac781d5307f"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0673-N01",
+    "technology_id": "TR-C0673-N01",
+    "assessment_unit_id": "AU-C0673-N01",
+    "category_id": "C0673",
+    "parent_direction_ids": [
+      "TD-4a76729c231c"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0679-N01",
+    "technology_id": "TR-C0679-N01",
+    "assessment_unit_id": "AU-C0679-N01",
+    "category_id": "C0679",
+    "parent_direction_ids": [
+      "TD-c1cc5752e863"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0685-N01",
+    "technology_id": "TR-C0685-N01",
+    "assessment_unit_id": "AU-C0685-N01",
+    "category_id": "C0685",
+    "parent_direction_ids": [
+      "TD-a0681d6596a4"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0690-N01",
+    "technology_id": "TR-C0690-N01",
+    "assessment_unit_id": "AU-C0690-N01",
+    "category_id": "C0690",
+    "parent_direction_ids": [
+      "TD-cb898bf4b20f"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0657-N01",
+    "technology_id": "TR-C0657-N01",
+    "assessment_unit_id": "AU-C0657-N01",
+    "category_id": "C0657",
+    "parent_direction_ids": [
+      "TD-d70643a25962"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0660-N01",
+    "technology_id": "TR-C0660-N01",
+    "assessment_unit_id": "AU-C0660-N01",
+    "category_id": "C0660",
+    "parent_direction_ids": [
+      "TD-ee7bb1ff2458"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0697-N01",
+    "technology_id": "TR-C0697-N01",
+    "assessment_unit_id": "AU-C0697-N01",
+    "category_id": "C0697",
+    "parent_direction_ids": [
+      "TD-a1837be6519c"
+    ],
+    "relation_to_direction": "component_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0703-N01",
+    "technology_id": "TR-C0703-N01",
+    "assessment_unit_id": "AU-C0703-N01",
+    "category_id": "C0703",
+    "parent_direction_ids": [
+      "TD-d0e5e393a30a"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0708-N01",
+    "technology_id": "TR-C0708-N01",
+    "assessment_unit_id": "AU-C0708-N01",
+    "category_id": "C0708",
+    "parent_direction_ids": [
+      "TD-4f1200a90d0f"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0713-N01",
+    "technology_id": "TR-C0713-N01",
+    "assessment_unit_id": "AU-C0713-N01",
+    "category_id": "C0713",
+    "parent_direction_ids": [
+      "TD-ffc4d89a4ea5"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0718-N01",
+    "technology_id": "TR-C0718-N01",
+    "assessment_unit_id": "AU-C0718-N01",
+    "category_id": "C0718",
+    "parent_direction_ids": [
+      "TD-264d4d0725e8"
+    ],
+    "relation_to_direction": "models_for",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0725-N01",
+    "technology_id": "TR-C0725-N01",
+    "assessment_unit_id": "AU-C0725-N01",
+    "category_id": "C0725",
+    "parent_direction_ids": [
+      "TD-761f92e0290c"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0737-N01",
+    "technology_id": "TR-C0737-N01",
+    "assessment_unit_id": "AU-C0737-N01",
+    "category_id": "C0737",
+    "parent_direction_ids": [
+      "TD-487cb550fe07"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0742-N01",
+    "technology_id": "TR-C0742-N01",
+    "assessment_unit_id": "AU-C0742-N01",
+    "category_id": "C0742",
+    "parent_direction_ids": [
+      "TD-8dbb24c80ff3"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "C0747-N01",
+    "technology_id": "TR-C0747-N01",
+    "assessment_unit_id": "AU-C0747-N01",
+    "category_id": "C0747",
+    "parent_direction_ids": [
+      "TD-08a40617263b"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W001",
+    "technology_id": "TR-W001",
+    "assessment_unit_id": "AU-W001",
+    "category_id": "C0321",
+    "category_ids": [
+      "C0321",
+      "C0397",
+      "C0471",
+      "C0672"
+    ],
+    "parent_direction_ids": [
+      "TD-e7323257ad6a"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W002",
+    "technology_id": "TR-W002",
+    "assessment_unit_id": "AU-W002",
+    "category_id": "C0117",
+    "category_ids": [
+      "C0117",
+      "C0561"
+    ],
+    "parent_direction_ids": [
+      "TD-ec2e2bfdd456"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W003",
+    "technology_id": "TR-W003",
+    "assessment_unit_id": "AU-W003",
+    "category_id": "C0090",
+    "category_ids": [
+      "C0090",
+      "C0309",
+      "C0545"
+    ],
+    "parent_direction_ids": [
+      "TD-12341d8e8c42"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W004",
+    "technology_id": "TR-W004",
+    "assessment_unit_id": "AU-W004",
+    "category_id": "C0404",
+    "category_ids": [
+      "C0404",
+      "C0443",
+      "C0729"
+    ],
+    "parent_direction_ids": [
+      "TD-44fbc5c40475"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W005",
+    "technology_id": "TR-W005",
+    "assessment_unit_id": "AU-W005",
+    "category_id": "C0150",
+    "category_ids": [
+      "C0150",
+      "C0377",
+      "C0464",
+      "C0744"
+    ],
+    "parent_direction_ids": [
+      "TD-1e53e878b4b1"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W006",
+    "technology_id": "TR-W006",
+    "assessment_unit_id": "AU-W006",
+    "category_id": "C0250",
+    "category_ids": [
+      "C0250",
+      "C0630"
+    ],
+    "parent_direction_ids": [
+      "TD-2598e06a957d"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W007",
+    "technology_id": "TR-W007",
+    "assessment_unit_id": "AU-W007",
+    "category_id": "C0302",
+    "category_ids": [
+      "C0302",
+      "C0662"
+    ],
+    "parent_direction_ids": [
+      "TD-329be0a65eee"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W008",
+    "technology_id": "TR-W008",
+    "assessment_unit_id": "AU-W008",
+    "category_id": "C0112",
+    "category_ids": [
+      "C0112",
+      "C0316",
+      "C0379",
+      "C0703"
+    ],
+    "parent_direction_ids": [
+      "TD-d0e5e393a30a"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W009",
+    "technology_id": "TR-W009",
+    "assessment_unit_id": "AU-W009",
+    "category_id": "C0062",
+    "category_ids": [
+      "C0062",
+      "C0112",
+      "C0379",
+      "C0704"
+    ],
+    "parent_direction_ids": [
+      "TD-b78d4eea4b36"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W010",
+    "technology_id": "TR-W010",
+    "assessment_unit_id": "AU-W010",
+    "category_id": "C0046",
+    "category_ids": [
+      "C0046",
+      "C0474",
+      "C0514"
+    ],
+    "parent_direction_ids": [
+      "TD-c2cf8c36b018"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W011",
+    "technology_id": "TR-W011",
+    "assessment_unit_id": "AU-W011",
+    "category_id": "C0108",
+    "category_ids": [
+      "C0108"
+    ],
+    "parent_direction_ids": [
+      "TD-333f2a057420"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W012",
+    "technology_id": "TR-W012",
+    "assessment_unit_id": "AU-W012",
+    "category_id": "C0137",
+    "category_ids": [
+      "C0137",
+      "C0577"
+    ],
+    "parent_direction_ids": [
+      "TD-acd801446a69"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W013",
+    "technology_id": "TR-W013",
+    "assessment_unit_id": "AU-W013",
+    "category_id": "C0137",
+    "category_ids": [
+      "C0137",
+      "C0577"
+    ],
+    "parent_direction_ids": [
+      "TD-acd801446a69"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W014",
+    "technology_id": "TR-W014",
+    "assessment_unit_id": "AU-W014",
+    "category_id": "C0470",
+    "category_ids": [
+      "C0470",
+      "C0748"
+    ],
+    "parent_direction_ids": [
+      "TD-00e9b031a3f5"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W015",
+    "technology_id": "TR-W015",
+    "assessment_unit_id": "AU-W015",
+    "category_id": "C0473",
+    "category_ids": [
+      "C0473"
+    ],
+    "parent_direction_ids": [
+      "TD-712c491dee0d"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W016",
+    "technology_id": "TR-W016",
+    "assessment_unit_id": "AU-W016",
+    "category_id": "C0250",
+    "category_ids": [
+      "C0250",
+      "C0630"
+    ],
+    "parent_direction_ids": [
+      "TD-2598e06a957d"
+    ],
+    "relation_to_direction": "route_under",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W017",
+    "technology_id": "TR-W017",
+    "assessment_unit_id": "AU-W017",
+    "category_id": "C0158",
+    "category_ids": [
+      "C0158",
+      "C0585"
+    ],
+    "parent_direction_ids": [
+      "TD-622c07812fd2"
+    ],
+    "relation_to_direction": "product_from_route",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  },
+  {
+    "case_id": "W018",
+    "technology_id": "TR-W018",
+    "assessment_unit_id": "AU-W018",
+    "category_id": "C0097",
+    "category_ids": [
+      "C0097",
+      "C0281",
+      "C0546"
+    ],
+    "parent_direction_ids": [
+      "TD-a117845f7d16"
+    ],
+    "relation_to_direction": "system_realization_of",
+    "link_status": "agent_assisted_semantic_mapping",
+    "transfers_maturity": false,
+    "relabels_documents": false
+  }
+]

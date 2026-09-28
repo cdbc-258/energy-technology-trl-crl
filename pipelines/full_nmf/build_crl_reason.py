@@ -1,15 +1,12 @@
-"""Fill empty CRL stages in case_hotspot_links.csv with an inline reason.
+"""Fill empty TRL/CRL stages in case_hotspot_links.csv with the recorded gap.
 
-Re-runs the existing assess() and, from objective fields only, derives why each
-object's CRL stage is empty, then writes that reason directly into the
-crl_public_evidence_stage cell (like an error message) instead of leaving it
-blank. It does not modify trl_crl/pipeline.py.
+Re-runs the existing assess() and, for each object whose TRL or CRL stage is
+empty, quotes the object's own remaining_gaps verbatim into the corresponding
+cell instead of leaving it blank. Objects with a stage keep their level, shown
+as TRLx / CRLx. It does not modify trl_crl/pipeline.py.
 
-Reason basis (docs/METHOD.md):
-  4: 没找到销售资料不能证明CRL1；专利申请或授权不独立决定CRL；
-     只有同对象许可、转让或产品交易的实际履约才能提供相应商业证据。
-  80: 供应商自述、政府案例汇编和作者论文的证据强度不同。
-Project-sourced objects surface their own recorded remaining_gaps verbatim.
+The gap text is not generated here: it is copied from data/objects.json
+remaining_gaps, the object-level record of what evidence is still missing.
 """
 from pathlib import Path
 import argparse
@@ -23,44 +20,41 @@ from trl_crl.pipeline import assess
 
 CRL_GAP_KEYWORDS = ('商业', '履约', '供货', '许可', '销售', '交易', '市场',
                     '经济', '收入', '签约', '买方', '结算', '商业化', 'CRL')
+TRL_GAP_KEYWORDS = ('测试', '试验', '验证', '验收', '调试', '指标', '性能', '可靠性',
+                    '成熟度', '型式', '实测', '对照', '推广', '达标', '效率', '纯度',
+                    '产氢', '发电', 'TRL')
 
 
-def crl_missing_reason(case, source_types, trl):
-    if 'public_project_or_research_source' in source_types:
-        rel = [g for g in (case.get('remaining_gaps') or [])
-               if any(k in g for k in CRL_GAP_KEYWORDS)]
-        return '；'.join(rel) if rel else '项目/调研来源，缺具体商业许可或供货履约证据'
-    if 'patent' in source_types:
-        return '专利申请或授权不独立决定CRL；无同对象许可、转让或产品交易履约证据'
-    if trl is None:
-        return '论文来源；无技术成熟度证据，亦无商业活动证据'
-    if trl <= 4:
-        return '论文来源，实验室阶段，无商业交易履约证据'
-    if trl <= 6:
-        return '论文来源，样机/原型阶段，无商业交易履约证据'
-    return '论文来源，工程/产品阶段，无商业交易履约证据'
+def gap_reason(case, keywords):
+    rel = [g for g in (case.get('remaining_gaps') or [])
+           if any(k in g for k in keywords)]
+    return '；'.join(rel)
 
 
 def build(data_dir, source_csv, out_csv):
     d, results = assess(data_dir)
     units = results['assessment_units']
     um = {u['case_id']: u for u in units}
-    src = {s['source_id']: s['source_type'] for s in d['sources']}
-    case_src = {}
-    for e in d['evidence']:
-        case_src.setdefault(e['case_id'], set()).add(src[e['source_id']])
-    reason = {}
+    trl_reason = {}
+    crl_reason = {}
     for u in units:
+        if u['trl_public_evidence_stage'] is None:
+            trl_reason[u['case_id']] = gap_reason(u, TRL_GAP_KEYWORDS)
         if u['crl_public_evidence_stage'] is None:
-            reason[u['case_id']] = crl_missing_reason(u, case_src.get(u['case_id'], set()), u['trl_public_evidence_stage'])
+            crl_reason[u['case_id']] = gap_reason(u, CRL_GAP_KEYWORDS)
     df = pd.read_csv(source_csv, encoding='utf-8-sig')
+    df['trl_public_evidence_stage'] = [
+        f"TRL{int(um[cid]['trl_public_evidence_stage'])}" if um[cid]['trl_public_evidence_stage'] is not None
+        else trl_reason.get(cid, '')
+        for cid in df['case_id']
+    ]
     df['crl_public_evidence_stage'] = [
-        str(int(um[cid]['crl_public_evidence_stage'])) if um[cid]['crl_public_evidence_stage'] is not None
-        else reason.get(cid, '')
+        f"CRL{int(um[cid]['crl_public_evidence_stage'])}" if um[cid]['crl_public_evidence_stage'] is not None
+        else crl_reason.get(cid, '')
         for cid in df['case_id']
     ]
     df.to_csv(out_csv, index=False, encoding='utf-8-sig')
-    return len(df), len(reason)
+    return len(df), len(trl_reason), len(crl_reason)
 
 
 if __name__ == '__main__':
@@ -69,5 +63,5 @@ if __name__ == '__main__':
     p.add_argument('--source', type=Path, default=REPO / 'assets/full_nmf500/case_hotspot_links.csv')
     p.add_argument('--out', type=Path, default=REPO / 'assets/full_nmf500/case_hotspot_links.csv')
     a = p.parse_args()
-    n, filled = build(a.data, a.source, a.out)
-    print(json.dumps({'rows': n, 'crl_reason_filled': filled}, ensure_ascii=False))
+    n, t_filled, c_filled = build(a.data, a.source, a.out)
+    print(json.dumps({'rows': n, 'trl_reason_filled': t_filled, 'crl_reason_filled': c_filled}, ensure_ascii=False))
